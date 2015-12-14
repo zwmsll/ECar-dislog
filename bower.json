@@ -27,7 +27,7 @@
     "test-infra"
   ],
   "dependencies": {
-	"Ecar-Klass": "~"
+	"Ecar-Klass": "~v1.1.0"
   },
   "devDependencies": {
   }
